@@ -27,7 +27,7 @@
                             <form method="POST" action="{{ route('user.updateDirectorUser') }}">
                     @else
                         @php($role = 'admin')
-                            <form method="POST" action="{{ route('user.updateDirector') }}">
+                            <form method="POST" action="{{ route('user.updateAdmin') }}">
                     @endif
                     
                         @csrf

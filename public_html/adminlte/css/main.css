@@ -1,0 +1,22 @@
+.bg-register-image, .bg-login-image {
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.bg-uft{
+    background-color: #8B181B;
+}
+
+.btn-uft {
+    color: white;
+    background-color: #8b181cab;
+    border-color: #8b181c9d;
+}
+
+.sidebar-dark-primary{
+    background-color: #8B181B;
+}
+
+.card-primary:not(.card-outline)>.card-header{
+    background-color: #8B181B;
+}

@@ -1,0 +1,11 @@
+cgi-bin=/home1/supervis/public_html/cgi-bin
+400.shtml=/home1/supervis/public_html/400.shtml
+401.shtml=/home1/supervis/public_html/401.shtml
+500.shtml=/home1/supervis/public_html/500.shtml
+403.shtml=/home1/supervis/public_html/403.shtml
+cp_errordocument.shtml=/home1/supervis/public_html/cp_errordocument.shtml
+404.shtml=/home1/supervis/public_html/404.shtml
+413.shtml=/home1/supervis/public_html/413.shtml
+public=/home1/supervis/public
+.h=/home1/supervis/public_html/.h
+archive.zip=/home1/supervis/archive.zip

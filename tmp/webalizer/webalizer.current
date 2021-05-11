@@ -1,0 +1,878 @@
+# Webalizer V2.23-08 Incremental Data - 04/23/2021 06:33:05
+2021 4 23 6 33 5
+3842 2147 79 147 87 28 178086010 1041 106 0
+1 1 357 4 23
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+934 770 72368739 8 109 10
+169 72 6905116 13 34 14
+213 149 11245298 9 68 8
+82 61 5189973 5 18 4
+174 119 11633476 9 29 10
+164 69 7307049 5 51 7
+103 38 6880016 4 17 4
+1526 569 35704442 5 470 7
+184 84 5799361 7 86 7
+31 25 1968390 5 12 5
+15 10 935749 3 6 3
+4 2 11446 2 4 2
+7 2 12781 4 7 5
+7 2 12801 5 7 5
+197 154 10854111 4 105 4
+16 15 1221156 1 2 1
+7 2 12781 5 7 5
+4 2 11446 2 4 2
+4 2 11446 2 4 2
+1 0 433 1 1 1
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+4 2 11446 4
+9 4 23345 9
+185 42 7444698 33
+26 6 2598776 3
+173 155 12288420 57
+36 32 3452525 7
+5 2 11879 5
+175 140 8090436 106
+214 106 9956829 42
+100 29 4481929 16
+66 52 1000833 62
+51 31 3401912 11
+0 0 0 0
+402 146 9076222 127
+63 28 3472294 10
+401 142 6787861 133
+357 133 4889526 156
+205 140 11863894 40
+504 375 35598091 77
+468 338 31826437 79
+104 83 8317125 10
+271 144 12329915 43
+22 17 1161164 10
+1 0 453 1
+2
+0
+0
+2147
+0
+0
+0
+0
+0
+2
+0
+0
+267
+0
+617
+0
+0
+0
+0
+0
+3
+741
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+63
+0
+0
+0
+0
+0
+# -urls- 
+/subject-list-admin
+0 11 0 244081 0 0
+/adminlte/chart/drilldown.js
+0 4 0 48868 0 0
+/css/app.css
+0 55 0 6419575 0 0
+/registro-director
+0 6 0 169856 1 2
+/parameters/decan-report-admin/3
+0 6 0 144662 0 0
+/parameters-subjects-admin/37
+0 3 0 537 0 0
+/adminlte/plugins/bootstrap/js/bootstrap.bundle.min.js.map
+0 3 0 954135 0 0
+/registro-operativo.admin/true
+0 23 0 638207 0 0
+/delete-director/27
+0 1 0 495 0 0
+/adminlte/css/adminlte.min.css
+0 43 0 21380235 0 0
+/parameters-subjects-admin/35
+0 5 0 1054 0 0
+/parameters-subjects-admin/32
+0 1 0 256 0 0
+/parameters-stages-admin/41/9
+0 9 0 2770 0 0
+/adminlte/Buttons-1.7.0/css/buttons.bootstrap4.min.css
+0 43 0 91000 0 0
+/adminlte/js/bs-init.js
+0 55 0 6004 0 0
+/adminlte/js/adminlte.min.js.map
+0 3 0 248688 0 0
+/parameters-stages-admin/35/7
+0 4 18446744073709548440 743 0 0
+/section-show/4
+0 1 140216435434832 24149 0 0
+/parameters-subjects-admin/33
+0 1 16854816 256 0 0
+/parameters-schools-admin/10
+0 3 0 1476 0 0
+/adminlte/bootstrap/js/bootstrap.min.js
+0 55 0 3366320 0 0
+/adminlte/js/jquery.min.js
+0 56 0 3668516 0 0
+/operatives-admin/true
+0 17 0 374181 0 0
+/adminlte/plugins/fontawesome-free/webfonts/fa-regular-400.woff2
+0 31 0 271680 0 0
+/adminlte/plugins/datatables-bs4/js/dataTables.bootstrap4.min.js
+0 43 0 56511 0 0
+/adminlte/plugins/jquery/jquery.min.js
+0 44 0 2644410 0 0
+/parameters-stages-admin/37/7
+0 3 0 533 0 0
+/adminlte/js/theme.js
+0 55 0 58558 0 0
+/adminlte/plugins/moment/moment.min.js
+0 43 0 1493072 0 0
+/parameters-subjects-admin/31
+0 1 0 256 0 0
+/edit-operative-admin/41
+0 4 0 132470 0 0
+/parameters-subjects-admin/40
+0 1 0 256 0 0
+/parameters/report-operative-admin/35
+0 2 0 47944 0 0
+/parameters/decan-report-admin/9
+0 1 0 28660 0 0
+/adminlte/Buttons-1.7.0/js/buttons.print.min.js
+0 43 0 62397 0 0
+/parameters/subject-report-admin/9
+0 1 0 29204 0 0
+/adminlte/chart/data.js
+0 4 0 64028 0 0
+/parameters-schools-admin/5
+0 4 0 988 0 0
+/adminlte/chart/export-data.js
+0 4 0 42984 0 0
+/adminlte/DataTables-1.10.24/js/dataTables.searchPanes.min.js
+0 4 0 209980 0 0
+/password/reset
+0 7 0 26038 0 1
+/parameters-subjects-admin/41
+0 3 0 2358 0 0
+/parameters/subject-report-admin/8
+0 1 0 28339 0 0
+/parameters-stages-admin/33/4
+0 1 0 113 0 0
+/parameters/report-operative-admin/28
+0 6 0 142124 1 1
+/adminlte/js/main.js
+0 19 0 133284 0 0
+/.well-known/pki-validation/86B4F1A3F973417272C3E7DA18FD0759.txt
+0 1 0 64 0 0
+/.well-known/pki-validation/58175BCD212063D712A154E3035C2F9E.txt
+0 16 0 1232 0 0
+/operatives-admin/32
+0 1 0 21161 0 0
+/operatives-admin/39
+0 1 0 23048 0 0
+/password/reset/5f49f48578d488c6db9bec39a268a227ba7b650c4bb720bbc5d5d56243ddef59
+0 1 0 8513 1 1
+/parameters/decan-report-admin/7
+0 1 0 28472 0 0
+/subject
+0 27 0 676991 0 1
+/section
+0 21 0 506431 0 0
+/delete-director/23
+0 1 3474299707825730093 495 0 0
+/parameters.admin
+0 45 8818449809525798005 2690793 0 0
+/parameters-subjects-admin/39
+0 2 106012689498416 522 0 0
+/decan
+0 34 3343206346138677091 864008 0 0
+/operatives-admin/33
+0 1 72057594037927936 21820 0 0
+/edit-operative-admin/37
+0 4 3615602383628284466 126602 0 0
+/configuracion-admin
+0 2 8818449809525798005 51100 0 0
+/adminlte/fonts/fontawesome-all.min.css
+0 54 414112068353 2170940 0 0
+/favicon.ico
+0 89 7453298397272039982 0 0 0
+/edit-operative-admin/28
+0 3 0 95264 0 0
+/operatives-admin/37
+0 1 0 22197 0 0
+/parameters/school-report-admin/7
+0 2 0 48250 0 0
+/adminlte/plugins/datatables-responsive/js/responsive.bootstrap4.min.js
+0 43 0 33750 0 0
+/operatives-admin/30
+0 1 0 21161 0 0
+/js/app.js
+0 57 0 14667972 0 0
+/adminlte/plugins/fontawesome-free/css/all.min.css
+0 43 0 1581714 0 0
+/parameters/subject-report-admin/10
+0 1 749016410833685182 22889 0 0
+/parameters/report-complete-admin
+0 21 0 556665 0 1
+/operatives-admin/36
+0 1 0 22005 0 0
+/parameters/save-admin
+0 37 0 1628 0 0
+/parameters-stages-admin/28/2
+0 14 0 3530 0 2
+/operatives-admin/34
+0 1 0 22005 0 0
+/adminlte/fonts/fontawesome5-overrides.min.css
+0 54 0 20376 0 0
+/adminlte/DataTables-1.10.24/js/dataTables.select.min.js
+0 4 0 50652 0 0
+/adminlte/plugins/select2-bootstrap4-theme/select2-bootstrap4.min.css
+0 43 0 139266 0 0
+/adminlte/chart/highcharts.js
+0 4 0 1160448 0 0
+/parameters-stages-admin/31/4
+0 5 0 1540 0 0
+/decan-list-admin
+0 30 4049071614463639808 656782 0 0
+/parameters/subject-report-admin/7
+0 1 7883958166468780905 23572 0 0
+/login
+0 113 8299624155421947442 599998 10 9
+/operatives-admin/35
+0 1 8320225963534868845 21353 0 0
+/adminlte/js/chart.min.js
+0 56 3270573702973256448 9031333 0 0
+/parameters/statistics-admin
+0 10 4120283705517159993 323309 0 0
+/parameters/report-operative-admin/41
+0 1 72057594037927936 23213 0 0
+/parameters/decan-report-admin/5
+0 2 3347421805067267939 57002 0 0
+/adminlte/fonts/font-awesome.min.css
+0 54 7308830258347669870 1178152 0 0
+/parameters/report-operative-admin/32
+0 3 3617008620395639341 87924 0 0
+/adminlte/plugins/datatables/jquery.dataTables.min.js
+0 43 3329906343257649709 2401664 0 0
+/parameters/subject-report-admin/4
+0 1 9040018582505861678 28179 0 0
+/adminlte/plugins/select2/js/select2.full.min.js
+0 43 7146776615256485754 2296017 0 0
+/parameters/report-operative-admin/31
+0 1 7277816997830721536 28302 0 0
+/adminlte/plugins/fontawesome-free/webfonts/fa-solid-900.woff2
+0 43 3543826277518422067 2303876 0 0
+/adminlte/plugins/select2/css/select2.min.css
+0 43 7957713625452457573 404109 0 0
+/adminlte/plugins/datatables-responsive/js/dataTables.responsive.min.js
+0 43 3328491577778726189 365708 0 0
+/parameters-stages-admin/35/4
+0 1 3543550287148495410 113 0 0
+/parameters-stages-admin/32/4
+0 6 109 2042 0 0
+/adminlte/Buttons-1.7.0/js/buttons.html5.min.js
+0 43 3275369691151688051 702940 0 0
+/operatives-admin
+0 36 0 863619 0 1
+/parameters/decan-report-admin/8
+0 3 0 76670 0 1
+/parameters-subjects-admin/28
+0 10 0 2510 0 0
+/edit-operative-admin/35
+0 2 0 63356 0 0
+/registro-operativo/true
+0 1 0 24916 0 0
+/cpanel
+0 1 0 34101 0 1
+/parameters-schools-admin/8
+0 6 0 1506 0 0
+/adminlte/JSZip-2.5.0/jszip.min.js
+0 43 0 2232942 0 0
+/parameters-stages-admin/36/6
+0 5 0 1540 0 0
+/
+0 55 0 1039322 91 8
+/password/reset/12bb6d1ac681b492542bcaaa92449b9f6318355b937240257df9496fadc0fb9f
+0 1 0 8513 0 0
+/parameters-schools-admin/9
+0 1 0 246 0 0
+/school-list-admin
+0 20 0 441691 0 0
+/adminlte/css/adminlte.min.css.map
+0 3 0 4450311 0 0
+/school-show/3
+0 1 0 27305 0 0
+/adminlte/Buttons-1.7.0/js/dataTables.buttons.min.js
+0 43 0 570612 0 0
+/adminlte/css/main.css
+0 71 0 19551 0 0
+/adminlte/pdfmake-0.1.36/pdfmake.min.js
+0 45 0 31788068 0 0
+/adminlte/js/adminlte.min.js
+0 43 0 705572 0 0
+/adminlte/plugins/bootstrap/js/bootstrap.bundle.min.js
+0 43 0 2340416 0 0
+/adminlte/bootstrap/css/bootstrap.min.css
+0 55 0 6895544 0 0
+/adminlte/img/logo-uft.png
+0 56 0 3146856 0 0
+/adminlte/pdfmake-0.1.36/vfs_fonts.js
+0 43 0 27849248 0 0
+/parameters/subject-report-admin/6
+0 2 0 50832 0 0
+/adminlte/chart/exporting.js
+0 4 0 70056 0 0
+/parameters-schools-admin/7
+0 1 0 251 0 0
+/robots.txt
+0 2 0 26 0 0
+/adminlte/chart/accessibility.js
+0 4 0 451676 0 0
+/parameters
+0 1 0 58404 0 0
+/parameters/report-operative-admin/33
+0 2 0 47954 0 0
+/adminlte/plugins/daterangepicker/daterangepicker.css
+0 43 0 217863 0 0
+/parameters-schools-admin/3
+0 13 0 3263 0 1
+/adminlte/plugins/daterangepicker/daterangepicker.js
+0 43 0 1950772 0 0
+/operatives-admin/40
+0 1 0 22197 0 0
+/adminlte/plugins/datatables-bs4/css/dataTables.bootstrap4.min.css
+0 43 0 141021 0 0
+/parameters-stages-admin/39/7
+0 2 0 323 0 0
+/parameters/school-report-admin/8
+0 1 0 28662 0 0
+/adminlte/plugins/datatables-responsive/css/responsive.bootstrap4.min.css
+0 43 0 103844 0 0
+/parameters/report-operative-admin/40
+0 1 0 28456 0 0
+/directores
+0 11 0 261955 0 0
+/parameters/report-operative-admin/37
+0 1 0 22838 0 0
+/delete-director/29
+0 1 0 495 0 0
+/school
+0 28 0 749731 0 0
+/parameters-subjects-admin/36
+0 1 0 256 0 0
+/lapse
+0 19 0 470485 0 0
+/parameters-stages-admin/40/8
+0 5 0 1540 0 0
+# End Of Table - urls
+# -sites- (monthly)
+22.162.77.34.bc.googleusercontent.com
+0 1 0 449 1 1618564752
+/
+ec2-18-231-158-85.sa-east-1.compute.amazonaws.com
+0 2 1 5687 1 1618506332
+/login
+92.118.160.61.netsystemsresearch.com
+0 2 1 5759 1 1618030749
+/login
+44.86.72.34.bc.googleusercontent.com
+0 14 13 1138272 1 1617919354
+/login
+francis.probe.onyphe.net
+0 1 1 5254 1 1617597870
+/login
+reverse-195-135-248-160.digimobil.es
+0 58 19 3734625 1 1618195698
+/parameters/report-complete-admin
+ec2-18-228-170-85.sa-east-1.compute.amazonaws.com
+0 5 3 16628 3 1617649844
+/login
+reverse-195-135-250-222.digimobil.es
+0 43 41 4569403 1 1617888063
+/
+92.118.160.57.netsystemsresearch.com
+0 1 0 449 1 1618667127
+/
+10.130.96.34.bc.googleusercontent.com
+0 1 0 433 1 1619159585
+/
+9.130.96.34.bc.googleusercontent.com
+0 1 0 449 1 1618917235
+/
+aws-us-east-2-c5-01.rhinoserver.net
+0 14 14 1065 0 0
+-
+ec2-54-233-244-83.sa-east-1.compute.amazonaws.com
+0 2 1 5759 1 1617649846
+/login
+ec2-18-231-23-152.sa-east-1.compute.amazonaws.com
+0 2 1 5687 1 1618682822
+/login
+ec2-18-230-186-54.sa-east-1.compute.amazonaws.com
+0 2 1 5759 1 1617560874
+/login
+43.red-81-36-20.dynamicip.rima-tde.net
+0 2281 1043 86439498 19 1618805015
+/login
+ec2-15-228-57-220.sa-east-1.compute.amazonaws.com
+0 4 2 11518 2 1618200768
+/login
+ec2-18-231-40-164.sa-east-1.compute.amazonaws.com
+0 2 1 5687 1 1618988608
+/login
+ec2-18-231-159-177.sa-east-1.compute.amazonaws.com
+0 2 1 5687 1 1618272731
+/login
+ec2-15-228-63-218.sa-east-1.compute.amazonaws.com
+0 2 1 5687 1 1618200767
+/login
+ec2-54-94-84-213.sa-east-1.compute.amazonaws.com
+0 2 1 5759 1 1617963170
+/login
+ec2-54-234-230-13.compute-1.amazonaws.com
+0 1 1 0 0 0
+-
+ec2-18-228-173-102.sa-east-1.compute.amazonaws.com
+0 2 1 5687 1 1617692900
+/login
+ec2-18-228-214-4.sa-east-1.compute.amazonaws.com
+0 2 1 5687 1 1618783774
+/login
+18.35.86.34.bc.googleusercontent.com
+0 1 0 453 1 1618250610
+/
+ec2-3-238-95-99.compute-1.amazonaws.com
+0 1 1 5310 1 1617785355
+/login
+ec2-15-228-37-28.sa-east-1.compute.amazonaws.com
+0 2 1 5759 1 1618272732
+/login
+ec2-15-228-21-107.sa-east-1.compute.amazonaws.com
+0 2 1 5687 1 1617732715
+/login
+ec2-18-230-195-129.sa-east-1.compute.amazonaws.com
+0 4 2 11446 2 1617843833
+/login
+ec2-15-228-95-71.sa-east-1.compute.amazonaws.com
+0 2 1 5759 1 1619089885
+/login
+ec2-18-231-132-93.sa-east-1.compute.amazonaws.com
+0 2 1 5759 1 1618121446
+/login
+92.118.160.13.netsystemsresearch.com
+0 1 0 453 1 1618646420
+/
+29.162.77.34.bc.googleusercontent.com
+0 2 0 886 2 1618615982
+/
+ec2-52-67-79-169.sa-east-1.compute.amazonaws.com
+0 2 1 5759 1 1617692902
+/login
+ec2-18-228-11-250.sa-east-1.compute.amazonaws.com
+0 2 1 5687 1 1619089883
+/login
+ec2-15-228-87-221.sa-east-1.compute.amazonaws.com
+0 2 1 5687 1 1617963170
+/login
+ec2-18-230-134-21.sa-east-1.compute.amazonaws.com
+0 2 1 5759 1 1618881268
+/login
+ec2-15-228-22-245.sa-east-1.compute.amazonaws.com
+0 2 1 5759 1 1618427819
+/login
+macgregor.probe.onyphe.net
+0 1 0 433 1 1617591957
+/
+33.130.96.34.bc.googleusercontent.com
+0 1 0 449 1 1618246812
+/
+monika.probe.onyphe.net
+0 1 0 453 1 1617589241
+/
+65.154.226.168
+0 15 14 1221084 1 1617918995
+/login
+heath.probe.onyphe.net
+0 2 2 10634 1 1617594255
+/login
+205.169.39.149
+0 23 21 1945498 1 1618298755
+/login
+ec2-15-228-68-142.sa-east-1.compute.amazonaws.com
+0 2 1 5759 1 1617843834
+/login
+ec2-15-228-58-163.sa-east-1.compute.amazonaws.com
+0 4 2 11374 2 1617898317
+/login
+16.130.96.34.bc.googleusercontent.com
+0 1 0 453 1 1617978587
+/
+ec2-15-228-79-213.sa-east-1.compute.amazonaws.com
+0 2 1 5687 1 1618427819
+/login
+ec2-18-231-140-213.sa-east-1.compute.amazonaws.com
+0 2 1 5759 1 1618506332
+/login
+reverse-195-135-251-5.digimobil.es
+0 47 21 4292391 1 1618134372
+/parameters-schools-admin/3
+9.162.77.34.bc.googleusercontent.com
+0 1 0 433 1 1618895885
+/
+ec2-54-94-226-120.sa-east-1.compute.amazonaws.com
+0 2 1 5687 1 1618351762
+/login
+ec2-54-144-3-175.compute-1.amazonaws.com
+0 1 1 5310 1 1617682037
+/login
+ec2-18-231-26-215.sa-east-1.compute.amazonaws.com
+0 6 3 17133 2 1618121445
+/login
+213.205.240.116
+0 2 1 5687 1 1617600382
+/login
+static-164-236-25-46.ipcom.comunitel.net
+0 374 262 19551699 4 1618222616
+/directores
+static-188-26-215-46.digimobil.es
+0 196 190 19495334 1 1617560132
+/decan-list-admin
+ec2-54-94-17-164.sa-east-1.compute.amazonaws.com
+0 2 1 5759 1 1618682825
+/login
+ec2-18-231-155-240.sa-east-1.compute.amazonaws.com
+0 2 1 5759 1 1618351762
+/login
+ec2-18-230-193-116.sa-east-1.compute.amazonaws.com
+0 2 1 5687 1 1618585759
+/login
+mehmet.probe.onyphe.net
+0 1 0 449 1 1617591125
+/
+ec2-3-238-1-58.compute-1.amazonaws.com
+0 1 1 0 0 0
+-
+ec2-18-228-222-8.sa-east-1.compute.amazonaws.com
+0 2 1 5759 1 1617732718
+/login
+ec2-18-231-157-73.sa-east-1.compute.amazonaws.com
+0 2 1 5759 1 1618988615
+/login
+secure.trust-provider.net
+0 3 3 231 0 0
+-
+186.167.250.112
+0 91 88 9213685 1 1617563174
+/
+167.249.33.153
+0 146 117 6181286 1 1618734285
+/parameters/report-complete-admin
+ec2-18-231-158-49.sa-east-1.compute.amazonaws.com
+0 7 3 17638 1 1617610146
+/login
+172.241.214.247
+0 2 1 5687 1 1617600382
+/login
+119.red-83-43-200.dynamicip.rima-tde.net
+0 47 35 4661379 1 1618733082
+/parameters/report-complete-admin
+205.169.39.253
+0 23 21 1945498 1 1617992756
+/login
+ec2-18-228-13-38.sa-east-1.compute.amazonaws.com
+0 2 1 5759 1 1618585759
+/login
+cache.google.com
+0 15 14 1221156 1 1617682028
+/login
+25.130.96.34.bc.googleusercontent.com
+0 1 0 453 1 1618627289
+/
+ec2-18-231-195-65.sa-east-1.compute.amazonaws.com
+0 2 1 5759 1 1618783776
+/login
+186.188.100.186
+0 329 176 12154172 4 1618158454
+/parameters/report-complete-admin
+ec2-18-230-191-15.sa-east-1.compute.amazonaws.com
+0 2 1 5687 1 1618881268
+/login
+10.35.86.34.bc.googleusercontent.com
+0 1 0 453 1 1618882617
+/
+unn-138-199-27-211.datapacket.com
+0 2 1 5687 1 1617600382
+/login
+# End Of Table - sites (monthly)
+# -sites- (daily)
+10.130.96.34.bc.googleusercontent.com
+0 1 0 433 1 1619159585
+/
+# End Of Table - sites (daily)
+# -referrers- 
+http://supervisionuft.rhinohosting.xyz/parameters/report-operative-admin/33
+0 3
+http://www.supervisionuft.rhinohosting.xyz/operatives-admin/37
+0 1
+http://www.supervisionuft.rhinohosting.xyz/parameters/statistics-admin
+0 69
+http://www.supervisionuft.rhinohosting.xyz/subject
+0 91
+http://www.supervisionuft.rhinohosting.xyz/operatives-admin/32
+0 3
+http://www.supervisionuft.rhinohosting.xyz/school-show/3
+0 5
+http://www.supervisionuft.rhinohosting.xyz/parameters/decan-report-admin/8
+0 6
+http://supervisionuft.rhinohosting.xyz/parameters/report-operative-admin/35
+0 3
+http://www.supervisionuft.rhinohosting.xyz/parameters/report-complete-admin
+0 43
+http://supervisionuft.rhinohosting.xyz/directores
+0 3
+http://supervisionuft.rhinohosting.xyz/decan-list-admin
+0 19
+http://www.supervisionuft.rhinohosting.xyz/parameters/school-report-admin/8
+0 1
+http://www.supervisionuft.rhinohosting.xyz/parameters/report-operative-admin/31
+0 4
+http://supervisionuft.rhinohosting.xyz/operatives-admin/true
+0 10
+http://supervisionuft.rhinohosting.xyz/registro-operativo.admin/true
+0 11
+http://www.supervisionuft.rhinohosting.xyz/edit-operative-admin/37
+0 19
+http://www.supervisionuft.rhinohosting.xyz/operatives-admin/35
+0 1
+http://www.supervisionuft.rhinohosting.xyz/school
+0 73
+http://supervisionuft.rhinohosting.xyz/adminlte/plugins/fontawesome-free/css/all.min.css
+0 5
+http://www.supervisionuft.rhinohosting.xyz/parameters/decan-report-admin/3
+0 10
+http://www.supervisionuft.rhinohosting.xyz/parameters/report-operative-admin/28
+0 7
+http://supervisionuft.rhinohosting.xyz/password/reset/5f49f48578d488c6db9bec39a268a227ba7b650c4bb720bbc5d5d56243ddef59
+0 13
+http://supervisionuft.rhinohosting.xyz/parameters/report-complete-admin
+0 2
+http://www.supervisionuft.rhinohosting.xyz/parameters/subject-report-admin/4
+0 3
+http://www.supervisionuft.rhinohosting.xyz/directores
+0 56
+http://www.supervisionuft.rhinohosting.xyz/edit-operative-admin/41
+0 7
+http://www.supervisionuft.rhinohosting.xyz/parameters/school-report-admin/7
+0 4
+http://supervisionuft.rhinohosting.xyz/subject
+0 13
+http://supervisionuft.rhinohosting.xyz/parameters/school-report-admin/7
+0 4
+http://www.supervisionuft.rhinohosting.xyz/school-list-admin
+0 58
+http://www.supervisionuft.rhinohosting.xyz/parameters/decan-report-admin/9
+0 1
+http://www.supervisionuft.rhinohosting.xyz/lapse
+0 43
+http://www.supervisionuft.rhinohosting.xyz/delete-director/27
+0 1
+http://www.supervisionuft.rhinohosting.xyz/operatives-admin/39
+0 1
+http://supervisionuft.rhinohosting.xyz/parameters/subject-report-admin/7
+0 3
+http://www.supervisionuft.rhinohosting.xyz/home
+0 2
+http://www.supervisionuft.rhinohosting.xyz/operatives-admin/36
+0 3
+http://supervisionuft.rhinohosting.xyz/parameters/report-operative-admin/37
+0 3
+https://www.google.com/
+0 2
+- (Direct Request)
+0 267
+http://www.supervisionuft.rhinohosting.xyz/operatives-admin/30
+0 3
+http://www.supervisionuft.rhinohosting.xyz/delete-director/29
+0 1
+http://supervisionuft.rhinohosting.xyz/login
+0 110
+http://supervisionuft.rhinohosting.xyz/password/reset/12bb6d1ac681b492542bcaaa92449b9f6318355b937240257df9496fadc0fb9f
+0 16
+http://www.supervisionuft.rhinohosting.xyz/parameters
+0 8
+http://supervisionuft.rhinohosting.xyz/subject-list-admin
+0 3
+http://supervisionuft.rhinohosting.xyz/parameters/decan-report-admin/5
+0 2
+http://www.supervisionuft.rhinohosting.xyz/operatives-admin/true
+0 35
+http://www.supervisionuft.rhinohosting.xyz/registro-director
+0 125
+http://www.supervisionuft.rhinohosting.xyz/decan-list-admin
+0 131
+http://www.supervisionuft.rhinohosting.xyz/parameters/report-operative-admin/40
+0 1
+http://www.supervisionuft.rhinohosting.xyz/parameters/decan-report-admin/7
+0 4
+http://supervisionuft.rhinohosting.xyz/operatives-admin/33
+0 3
+http://www.supervisionuft.rhinohosting.xyz/adminlte/plugins/fontawesome-free/css/all.min.css
+0 69
+http://www.supervisionuft.rhinohosting.xyz/section-show/4
+0 4
+http://www.supervisionuft.rhinohosting.xyz/parameters/subject-report-admin/6
+0 6
+http://www.supervisionuft.rhinohosting.xyz/registro-operativo/true
+0 5
+http://www.supervisionuft.rhinohosting.xyz/operatives-admin
+0 78
+http://supervisionuft.rhinohosting.xyz/school-list-admin
+0 18
+http://www.supervisionuft.rhinohosting.xyz/
+0 787
+http://supervisionuft.rhinohosting.xyz/operatives-admin
+0 36
+http://www.supervisionuft.rhinohosting.xyz/section
+0 56
+http://www.supervisionuft.rhinohosting.xyz/edit-operative-admin/28
+0 13
+http://www.supervisionuft.rhinohosting.xyz/operatives-admin/34
+0 3
+http://supervisionuft.rhinohosting.xyz/school
+0 8
+http://www.supervisionuft.rhinohosting.xyz/password/reset
+0 88
+http://www.supervisionuft.rhinohosting.xyz/parameters/subject-report-admin/8
+0 1
+http://www.supervisionuft.rhinohosting.xyz/parameters/decan-report-admin/5
+0 8
+http://supervisionuft.rhinohosting.xyz/parameters.admin
+0 32
+http://www.supervisionuft.rhinohosting.xyz/operatives-admin/40
+0 2
+http://supervisionuft.rhinohosting.xyz/decan
+0 10
+http://3.137.69.192:80/
+0 1
+http://supervisionuft.rhinohosting.xyz/lapse
+0 3
+http://www.supervisionuft.rhinohosting.xyz/parameters/report-operative-admin/32
+0 10
+http://supervisionuft.rhinohosting.xyz/
+0 122
+http://www.supervisionuft.rhinohosting.xyz/parameters/report-operative-admin/35
+0 5
+http://www.supervisionuft.rhinohosting.xyz/login
+0 616
+http://www.supervisionuft.rhinohosting.xyz/parameters/subject-report-admin/10
+0 2
+http://www.supervisionuft.rhinohosting.xyz/configuracion-admin
+0 2
+http://www.supervisionuft.rhinohosting.xyz/decan
+0 109
+http://www.supervisionuft.rhinohosting.xyz/delete-director/23
+0 1
+http://supervisionuft.rhinohosting.xyz/edit-operative-admin/35
+0 7
+http://www.supervisionuft.rhinohosting.xyz/registro-operativo.admin/true
+0 62
+http://www.supervisionuft.rhinohosting.xyz/parameters/report-operative-admin/33
+0 2
+http://www.supervisionuft.rhinohosting.xyz/parameters.admin
+0 313
+http://supervisionuft.rhinohosting.xyz/parameters/decan-report-admin/8
+0 3
+http://www.supervisionuft.rhinohosting.xyz/subject-list-admin
+0 45
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36
+0 16
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.3 Safari/605.1.15
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36
+0 30
+Mozilla/5.0 (Linux; U; Android 8.1.0; zh-CN; EML-AL00 Build/HUAWEIEML-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:86.0) Gecko/20100101 Firefox/86.0
+0 1
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.71 Safari/537.36
+0 15
+Go http package
+0 1
+Slackbot-LinkExpanding 1.0 (+https://api.slack.com/robots)
+0 2
+COMODO DCV
+0 9
+Mozilla/5.0 (Linux; Android 10; Redmi 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.105 Mobile Safari/537.36
+0 91
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36
+0 2813
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36
+0 13
+Slackbot 1.0 (+https://api.slack.com/robots)
+0 2
+Mozilla/5.0 (iPad; CPU OS 11_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/11.0 Mobile/15E148 Safari/604.
+0 92
+Mozilla/5.0 (Android 10; Mobile; rv:86.0) Gecko/86.0 Firefox/86.0
+0 1
+Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.3 Mobile/15E14
+0 1
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/88.0.4324.96 Safari/537.36
+0 14
+Mozilla/5.0 (Linux; Android 11; Mi 10) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Mobile Safari/537.36
+0 307
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36 Edg/89.0.
+0 45
+Expanse, a Palo Alto Networks company, searches across the global IPv4 space multiple times per day to identify customers&#39
+0 11
+Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36
+0 146
+Mozilla/5.0 (Linux; Android 11; Mi A3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.105 Mobile Safari/537.36
+0 196
+Sectigo DCV
+0 8
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36 Edg/84.0.
+0 15
+WhatsApp/2.21.5.17 A
+0 1
+Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:58.0) Gecko/20100101 Firefox/58.0
+0 6
+NetSystemsResearch studies the availability of various services across the internet. Our website is netsystemsresearch.com
+0 3
+Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.3 Mobile/15E14
+0 1
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames

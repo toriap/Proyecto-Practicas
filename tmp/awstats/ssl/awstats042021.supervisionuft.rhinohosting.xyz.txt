@@ -1,0 +1,341 @@
+AWSTATS DATA FILE 7.7 (build 20180105)
+# If you remove this file, all statistics for date 202104 will be lost/reset.
+# Last config file used to build this data file was /home1/supervis/tmp/awstats/ssl/awstats.supervisionuft.rhinohosting.xyz.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2033                
+POS_TIME 2708                
+POS_VISITOR 7614                
+POS_DAY 8649                
+POS_DOMAIN 3351                
+POS_LOGIN 3649                
+POS_ROBOT 3804                
+POS_WORMS 4006                
+POS_EMAILSENDER 4137                
+POS_EMAILRECEIVER 4280                
+POS_SESSION 9046                
+POS_SIDER 9246                
+POS_FILETYPES 4415                
+POS_DOWNLOADS 4637                
+POS_OS 4685                
+POS_BROWSER 4822                
+POS_SCREENSIZE 4998                
+POS_UNKNOWNREFERER 5072                
+POS_UNKNOWNREFERERBROWSER 5613                
+POS_ORIGIN 6149                
+POS_SEREFERRALS 6284                
+POS_PAGEREFS 6450                
+POS_SEARCHWORDS 6625                
+POS_KEYWORDS 6777                
+POS_MISC 2371                
+POS_ERRORS 6836                
+POS_CLUSTER 3505                
+POS_SIDER_404 6962                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20210422215940 3 503 26320583593576
+FirstTime 20210404173645
+LastTime 20210421013010
+LastUpdate 20210423082004 3 0 3 0 0
+TotalVisits 32                  
+TotalUnique 25                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 25                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 48 0
+FlashSupport 0 0 0
+DirectorSupport 0 0 0
+TotalMisc 0 0 0
+JavascriptDisabled 0 0 0
+JavaEnabled 0 0 0
+QuickTimeSupport 0 0 0
+RealPlayerSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 1 1 38490 2 2 492
+1 1 1 38490 2 2 38878
+2 1 1 38076 6 6 1452
+3 5 5 125197 5 5 1019
+4 3 3 81867 0 0 0
+5 3 3 15804 4 4 1768
+6 1 1 38441 0 0 0
+7 1 1 38441 1 1 35
+8 0 0 0 8 8 0
+9 1 1 5324 4 4 1398
+10 18 56 4930813 3 5 2380
+11 1 1 38441 0 0 0
+12 0 0 0 3 3 507
+13 1 1 5324 4 4 453
+14 1 1 38490 0 0 0
+15 0 0 0 7 7 488
+16 9 59 5118268 11 16 47869
+17 18 199 19076811 33 66 39642
+18 19 209 23021040 8 17 6114
+19 0 0 0 1 1 35
+20 3 16 1227999 6 7 1398
+21 25 92 8701687 12 33 29906
+22 3 11 1975376 1 1 35
+23 3 3 49047 5 5 1417
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 6
+ve 89 636 63854367
+us 14 14 438956
+gr 6 6 131309
+fr 5 5 92094
+gb 3 3 81432
+eu 1 1 5268
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 2
+unknown 5 130 20210411215358 5
+no_user_agent 2 76931 20210421162735 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 8
+html 24 807836 0 0
+woff2 17 796500 0 0
+Unknown 63 648916 0 0
+png 24 1904676 0 0
+admin 7 417920 0 0
+css 215 15381358 0 0
+js 308 39394027 0 0
+map 7 5252193 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 6
+win10 637 90
+linux 7 7
+win8.1 2 2
+ios_iphone 2 2
+Unknown 15 15
+win7 2 2
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 7
+chrome42.0.2311.90 2 2
+Unknown 15 15
+firefox58.0 7 7
+firefox86.0 1 1
+safari14.0.3 2 2
+chrome89.0.4389.114 636 89
+msie11.0 2 2
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 3
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20210421013010
+NetSystemsResearch_studies_the_availability_of_various_services_across_the_internet._Our_website_is_netsystemsresearch.com 20210412075236
+Go_http_package 20210419045204
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 3
+Go_http_package 20210419045204
+NetSystemsResearch_studies_the_availability_of_various_services_across_the_internet._Our_website_is_netsystemsresearch.com 20210412075236
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20210421013010
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 47 47
+From1 0 0
+From2 2 2
+From3 2 2
+From4 67 614
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+www_google_com_hk 2 2
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 1
+http://3.137.69.192:80 2 2
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 4
+401 21 735
+404 29 33616
+302 71 21729
+500 21 42145
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 6
+/parameters/school-report-admin 1 -
+/adminlte/DataTables-1.10.24/js/dataTables.select.min.js 9 https://supervisionuft.rhinohosting.xyz/parameters.admin
+/adminlte/pdfmake-0.1.36/pdfmake.min.js.map 2 -
+/admin 1 -
+/adminlte/DataTables-1.10.24/js/dataTables.searchPanes.min.js 9 https://supervisionuft.rhinohosting.xyz/parameters.admin
+/login 7 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 25
+186.188.100.186 89 636 63854367 20210411220013
+62.210.10.77 2 2 43344 20210405034413
+69.164.111.198 2 2 76931 20210404183035
+92.118.160.45 2 2 76882 20210419045204
+195.154.62.232 2 2 43412 20210405044009
+51.15.191.81 2 2 76164 20210405030837
+34.77.162.20 1 1 38490 20210414001606
+92.118.160.57 1 1 5338 20210417234610
+34.86.35.28 1 1 38490 20210421013010
+34.86.35.31 1 1 38441 20210419182814
+34.86.35.13 1 1 38441 20210416235412
+34.77.162.11 1 1 38441 20210413175121
+62.210.5.253 1 1 5338 20210405044510
+34.96.130.4 1 1 38441 20210417032100
+213.205.240.116 1 1 5268 20210405052622
+138.199.27.211 1 1 5268 20210405052624
+173.208.246.43 1 1 5324 20210419094037
+92.118.160.37 1 1 38441 20210410111839
+63.141.251.238 1 1 5268 20210418234034
+34.77.162.3 1 1 38441 20210409063106
+92.118.160.61 1 1 5324 20210418130216
+92.118.160.5 1 1 5324 20210409175616
+172.241.214.247 1 1 5268 20210405052624
+34.86.35.3 1 1 38490 20210408164141
+34.86.35.30 1 1 38490 20210416141417
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 15
+20210404 34 384 38867222 3
+20210405 10 10 184062 7
+20210406 18 56 4930813 1
+20210408 3 16 1292833 2
+20210409 9 46 3903277 3
+20210410 1 1 38441 1
+20210411 30 139 15019408 2
+20210412 1 1 38441 1
+20210413 1 1 38441 1
+20210414 1 1 38490 1
+20210416 2 2 76931 2
+20210417 2 2 43779 2
+20210418 2 2 10592 2
+20210419 3 3 82206 3
+20210421 1 1 38490 1
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 6
+2mn-5mn 1
+0s-30s 23
+5mn-15mn 3
+15mn-30mn 1
+30s-2mn 2
+30mn-1h 2
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 31
+/login 28 147868 17 10
+/ 24 807836 15 16
+/adminlte/plugins/fontawesome-free/webfonts/fa-solid-900.woff2 10 714996 0 0
+/adminlte/plugins/fontawesome-free/webfonts/fa-regular-400.woff2 7 81504 0 1
+/parameters.admin 7 417920 0 0
+/password/reset 5 18239 0 1
+/configuracion-admin 3 76369 0 0
+/school-list-admin 3 64556 0 1
+/adminlte/css/adminlte.min.css.map 3 4450311 0 1
+/parameters-schools-admin/8 2 502 0 0
+/parameters-stages-admin/35/7 2 420 0 0
+/directores 2 47125 0 0
+/parameters-subjects-admin/35 2 522 0 0
+/adminlte/plugins/bootstrap/js/bootstrap.bundle.min.js.map 2 636090 0 0
+/adminlte/js/adminlte.min.js.map 2 165792 0 0
+/parameters-stages-admin/28/2 1 210 0 0
+/edit-operative-admin/28 1 31686 0 0
+/operatives-admin 1 23369 0 0
+/section 1 23647 0 0
+/parameters/report-complete-admin 1 23432 0 0
+/parameters/statistics-admin 1 32380 0 0
+/parameters-subjects-admin/37 1 261 0 0
+/decan 1 24214 0 0
+/school 1 26080 0 0
+/parameters/save-admin 1 44 0 0
+/cpanel 1 34077 0 1
+/parameters/report-operative-admin/28 1 23621 0 1
+/parameters-schools-admin/3 1 251 0 0
+/edit-director/23 1 28266 0 0
+/operatives-admin/true 1 21526 0 0
+/parameters-subjects-admin/28 1 251 0 0
+END_SIDER

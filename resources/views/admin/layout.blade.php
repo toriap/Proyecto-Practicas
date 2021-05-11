@@ -51,6 +51,10 @@ scratch. This page gets rid of all links and provides the needed markup only.
         <li class="nav-item d-none d-sm-inline-block">
           <a href="{{ route('config') }}" class="nav-link">Mis datos</a>
         </li>
+      @elseif(Auth::user()->hasRole('admin'))
+        <li class="nav-item d-none d-sm-inline-block">
+          <a href="{{ route('config.admin') }}" class="nav-link">Mis datos</a>
+        </li>
       @endif
       <li class="nav-item d-none d-sm-inline-block">
         <a class="nav-link" href="{{ route('logout') }}"

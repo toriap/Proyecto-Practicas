@@ -79,6 +79,9 @@ Route::get('/parameters/decan-report-admin/{id}', 'ParameterController@reportByD
 Route::get('/school-list-admin', 'SchoolController@list')->name('school.listAdmin')->middleware(['auth', 'role:admin']);
 Route::get('/parameters/school-report-admin/{id}', 'ParameterController@reportBySchool')->name('parameters.schoolReportAdmin')->middleware(['auth', 'role:admin']);
 
+Route::get('/configuracion-admin', 'UserController@config')->name('config.admin')->middleware(['auth', 'role:admin']);
+Route::post('/update-admin', 'UserController@updateAdmin')->name('user.updateAdmin')->middleware(['auth', 'role:admin']);
+
 /* -----------------------------------------------------RUTAS DIRECTOR ---------------------------------------------------- */
 Route::get('/operatives/{report?}', 'UserController@listOperatives')->name('user.listOperatives')->middleware(['auth', 'role:director']);
 Route::get('/delete-operative/{id}/{role}', 'UserController@deleteOperative')->name('user.deleteOperative')->middleware(['auth', 'role:director']);

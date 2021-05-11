@@ -1,0 +1,466 @@
+AWSTATS DATA FILE 7.7 (build 20180105)
+# If you remove this file, all statistics for date 202104 will be lost/reset.
+# Last config file used to build this data file was /home1/supervis/tmp/awstats/awstats.supervisionuft.rhinohosting.xyz.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2029                
+POS_TIME 2704                
+POS_VISITOR 7732                
+POS_DAY 10152               
+POS_DOMAIN 3474                
+POS_LOGIN 3827                
+POS_ROBOT 3982                
+POS_WORMS 4193                
+POS_EMAILSENDER 4324                
+POS_EMAILRECEIVER 4467                
+POS_SESSION 10674               
+POS_SIDER 10880               
+POS_FILETYPES 4602                
+POS_DOWNLOADS 4849                
+POS_OS 5044                
+POS_BROWSER 5210                
+POS_SCREENSIZE 5570                
+POS_UNKNOWNREFERER 5644                
+POS_UNKNOWNREFERERBROWSER 5815                
+POS_ORIGIN 5981                
+POS_SEREFERRALS 6120                
+POS_PAGEREFS 6283                
+POS_SEARCHWORDS 6458                
+POS_KEYWORDS 6610                
+POS_MISC 2367                
+POS_ERRORS 6669                
+POS_CLUSTER 3683                
+POS_SIDER_404 6824                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20210423063305 5 830 26277600495205
+FirstTime 20210404162912
+LastTime 20210422111125
+LastUpdate 20210423082004 5 0 5 0 0
+TotalVisits 89                  
+TotalUnique 58                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 60                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+RealPlayerSupport 0 0 0
+FlashSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 89 0
+JavascriptDisabled 0 0 0
+TotalMisc 0 0 0
+QuickTimeSupport 0 0 0
+PDFSupport 0 0 0
+DirectorSupport 0 0 0
+JavaEnabled 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 2 2 10564 2 2 882
+1 4 4 21128 5 5 2217
+2 25 165 8122975 16 21 11408
+3 5 24 1908658 1 1 433
+4 48 150 12272762 19 23 15658
+5 5 32 3450793 4 4 1732
+6 2 2 10564 3 3 1315
+7 80 139 8076245 35 36 14191
+8 29 187 9940304 19 27 16525
+9 14 91 4478722 7 9 3207
+10 52 53 994768 13 13 6065
+11 7 44 3398203 6 7 3709
+12 0 0 0 0 0 0
+13 104 185 8776527 34 217 299695
+14 11 49 2724138 4 14 748156
+15 102 178 6469708 48 223 318153
+16 130 130 4566616 37 227 312505
+17 19 158 11840135 25 47 23759
+18 52 402 35496268 39 102 101823
+19 81 329 31654281 21 139 172156
+20 14 79 8286140 1 25 30985
+21 46 251 12323958 13 20 5957
+22 5 17 1158967 5 5 2197
+23 0 0 0 1 1 453
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 9
+es 598 1981 122644014
+us 129 232 12665705
+ve 89 254 21147039
+ro 15 181 19492664
+fr 3 3 15888
+gr 1 1 5310
+gb 1 4 5485
+eu 1 1 5254
+zz 0 14 1065
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 2
+unknown 2 26 20210404171256 2
+Slackbot\-LinkExpanding 2 10620 20210407084915 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 9
+Unknown 654 10323087 0 0
+admin 45 2690793 0 0
+html 55 1039322 0 0
+txt 17 1296 0 0
+js 1074 109789190 0 0
+png 56 3146856 0 0
+woff2 74 2575556 0 0
+map 9 5653134 0 0
+css 687 40763190 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 2
+/.well-known/pki-validation/58175BCD212063D712A154E3035C2F9E.txt 16 0 1232
+/.well-known/pki-validation/86B4F1A3F973417272C3E7DA18FD0759.txt 1 0 64
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 7
+linuxandroid 551 53
+win10 1897 648
+ios_iphone 2 2
+Unknown 18 1
+ios_ipad 46 46
+win7 130 78
+linux 27 9
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 14
+chrome89.0.4389.114 1840 643
+chrome84.0.4147.135 14 1
+safari14.0.3 2 2
+firefox58.0 3 3
+chrome89.0.4389.128 116 76
+safari11.0 46 46
+chrome76.0.3809.71 14 1
+chrome89.0.4389.105 266 23
+chrome79.0.3945.79 28 2
+chrome88.0.4324.96 13 1
+Unknown 18 1
+chrome83.0.4103.61 14 2
+chrome89.0.4389.90 296 35
+firefox86.0 1 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 3
+Go_http_package 20210410045909
+COMODO_DCV 20210404182708
+Sectigo_DCV 20210404182712
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 3
+COMODO_DCV 20210404182708
+Sectigo_DCV 20210404182712
+Go_http_package 20210410045909
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 117 134
+From1 0 0
+From2 1 1
+From3 1 1
+From4 718 2535
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+www_google_com 1 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 1
+http://3.137.69.192:80 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 6
+206 2 735588
+500 63 91942
+404 740 1123080
+419 2 3134
+403 3 7836
+302 267 120955
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 9
+/home 5 -
+/adminlte/pdfmake-0.1.36/pdfmake.min.js.map 3 -
+/parameters/school-report-admin 1 -
+/admin 5 http://www.supervisionuft.rhinohosting.xyz/login
+/adminlte/DataTables-1.10.24/js/dataTables.select.min.js 397 http://www.supervisionuft.rhinohosting.xyz/parameters/decan-report-admin/8
+/adminlte/DataTables-1.10.24/js/dataTables.searchPanes.min.js 322 http://www.supervisionuft.rhinohosting.xyz/parameters/decan-report-admin/8
+/parameters/index3.html 1 http://www.supervisionuft.rhinohosting.xyz/parameters/statistics-admin
+/index3.html 1 http://supervisionuft.rhinohosting.xyz/subject
+/login 5 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 60
+81.36.20.43 456 1456 85377488 20210419040335
+46.25.236.164 119 330 18794573 20210412101656
+186.188.100.186 81 169 11934677 20210411162734
+167.249.33.153 76 116 6169725 20210418082445
+188.26.215.46 15 181 19492664 20210405050318
+186.167.250.112 8 85 9212362 20210404190843
+195.135.248.160 8 53 3731798 20210412024818
+195.135.251.5 6 44 4291517 20210411094612
+83.43.200.119 5 44 4660505 20210418080442
+18.231.26.215 3 3 15818 20210411061045
+195.135.250.222 3 40 4567426 20210408132104
+18.228.170.85 3 3 15762 20210405191044
+18.231.158.49 3 3 15874 20210405080906
+15.228.58.163 2 2 10508 20210408161157
+15.228.57.220 2 2 10620 20210412041248
+205.169.39.253 2 21 1944632 20210409182556
+18.230.195.129 2 2 10564 20210408010353
+195.154.63.222 2 2 10634 20210405034415
+205.169.39.149 2 21 1944632 20210413072555
+18.230.134.21 1 1 5310 20210420011428
+15.228.68.142 1 1 5310 20210408010354
+18.231.195.65 1 1 5310 20210418220936
+18.228.222.8 1 1 5310 20210406181158
+15.228.21.107 1 1 5254 20210406181155
+54.94.84.213 1 1 5310 20210409101250
+15.228.87.221 1 1 5254 20210409101250
+178.60.128.4 1 14 1220707 20210406040708
+54.94.226.120 1 1 5254 20210413220922
+213.205.240.116 1 1 5254 20210405052622
+65.154.226.168 1 14 1220651 20210408215635
+18.231.23.152 1 1 5254 20210417180702
+138.199.27.211 1 1 5254 20210405052622
+34.72.86.44 1 13 1137839 20210408220234
+18.228.173.102 1 1 5254 20210406070820
+54.233.244.83 1 1 5310 20210405191046
+18.231.158.85 1 1 5254 20210415170532
+91.199.212.132 0 3 231 
+18.230.193.116 1 1 5254 20210416150919
+18.231.140.213 1 1 5310 20210415170532
+15.228.37.28 1 1 5310 20210413001212
+18.231.159.177 1 1 5254 20210413001211
+15.228.79.213 1 1 5254 20210414191659
+18.230.191.15 1 1 5254 20210420011428
+172.31.28.134 0 14 1065 
+18.228.214.4 1 1 5254 20210418220934
+18.228.13.38 1 1 5310 20210416150919
+15.228.63.218 1 1 5254 20210412041247
+15.228.22.245 1 1 5310 20210414191659
+172.241.214.247 1 1 5254 20210405052622
+62.210.5.253 1 1 5254 20210405044430
+18.228.11.250 1 1 5254 20210422111123
+18.230.186.54 1 1 5310 20210404182754
+18.231.155.240 1 1 5310 20210413220922
+18.231.132.93 1 1 5310 20210411061046
+15.228.95.71 1 1 5310 20210422111125
+52.67.79.169 1 1 5310 20210406070822
+18.231.157.73 1 1 5310 20210421070335
+18.231.40.164 1 1 5254 20210421070328
+92.118.160.61 1 1 5310 20210410045909
+54.94.17.164 1 1 5310 20210417180705
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 19
+20210404 100 832 72324461 10
+20210405 22 148 6896576 12
+20210406 57 184 11224178 7
+20210407 13 70 5178303 3
+20210408 20 157 11626287 10
+20210409 47 142 7290527 6
+20210410 16 92 6141349 4
+20210411 388 663 34488446 7
+20210412 69 158 5787234 5
+20210413 6 25 1965760 5
+20210414 3 12 934418 3
+20210415 2 2 10564 2
+20210416 2 2 10564 2
+20210417 2 2 10564 2
+20210418 83 162 10840794 4
+20210419 1 14 1220707 1
+20210420 2 2 10564 2
+20210421 2 2 10564 2
+20210422 2 2 10564 2
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+2mn-5mn 5
+0s-30s 65
+5mn-15mn 3
+30s-2mn 6
+1h+ 4
+15mn-30mn 2
+30mn-1h 4
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 97
+/login 111 589378 79 58
+/ 55 1039322 3 2
+/parameters.admin 45 2690793 0 2
+/adminlte/plugins/fontawesome-free/webfonts/fa-solid-900.woff2 43 2303876 1 6
+/parameters/save-admin 37 1628 0 0
+/operatives-admin 36 863619 0 1
+/decan 34 864008 0 0
+/adminlte/plugins/fontawesome-free/webfonts/fa-regular-400.woff2 31 271680 2 3
+/decan-list-admin 30 656782 0 0
+/school 28 749731 0 0
+/subject 27 676991 0 1
+/registro-operativo.admin/true 23 638207 1 0
+/section 21 506431 0 0
+/parameters/report-complete-admin 21 556665 0 5
+/school-list-admin 20 441691 0 1
+/lapse 19 470485 0 0
+/operatives-admin/true 17 374181 0 0
+/parameters-stages-admin/28/2 14 3530 0 2
+/parameters-schools-admin/3 13 3263 0 2
+/directores 11 261955 0 1
+/subject-list-admin 11 244081 0 0
+/parameters-subjects-admin/28 10 2510 0 0
+/parameters/statistics-admin 10 323309 0 0
+/parameters-stages-admin/41/9 9 2770 0 0
+/password/reset 7 26038 0 1
+/operatives-admin/39 1 23048 0 0
+/parameters-stages-admin/35/4 1 113 0 0
+/edit-operative-admin/35 2 63356 0 0
+/parameters-stages-admin/33/4 1 113 0 0
+/parameters/subject-report-admin/9 1 29204 0 0
+/parameters/decan-report-admin/9 1 28660 0 0
+/password/reset/12bb6d1ac681b492542bcaaa92449b9f6318355b937240257df9496fadc0fb9f 1 8513 0 0
+/parameters/report-operative-admin/41 1 23213 0 0
+/delete-director/27 1 495 0 0
+/parameters-subjects-admin/33 1 256 0 0
+/parameters/subject-report-admin/4 1 28179 0 0
+/configuracion-admin 2 51100 0 0
+/parameters-subjects-admin/39 2 522 0 0
+/parameters/school-report-admin/8 1 28662 0 0
+/parameters/decan-report-admin/7 1 28472 0 0
+/adminlte/js/adminlte.min.js.map 3 248688 0 0
+/parameters/subject-report-admin/10 1 22889 0 0
+/parameters/decan-report-admin/8 3 76670 0 1
+/parameters/report-operative-admin/28 6 142124 1 1
+/edit-operative-admin/41 4 132470 0 0
+/parameters/decan-report-admin/5 2 57002 0 0
+/registro-director 6 169856 0 0
+/parameters-stages-admin/39/7 2 323 0 0
+/parameters-subjects-admin/40 1 256 0 0
+/adminlte/plugins/bootstrap/js/bootstrap.bundle.min.js.map 3 954135 0 0
+/edit-operative-admin/28 3 95264 0 0
+/adminlte/css/adminlte.min.css.map 3 4450311 0 0
+/parameters/subject-report-admin/8 1 28339 0 0
+/cpanel 1 34101 1 1
+/parameters-stages-admin/31/4 5 1540 0 0
+/parameters-schools-admin/10 3 1476 0 0
+/parameters/report-operative-admin/35 2 47944 0 0
+/parameters-subjects-admin/31 1 256 0 0
+/operatives-admin/40 1 22197 0 0
+/parameters/report-operative-admin/31 1 28302 0 0
+/registro-operativo/true 1 24916 0 0
+/operatives-admin/30 1 21161 0 0
+/parameters/report-operative-admin/37 1 22838 0 0
+/parameters/subject-report-admin/6 2 50832 0 0
+/delete-director/29 1 495 0 0
+/parameters/decan-report-admin/3 6 144662 0 0
+/parameters/school-report-admin/7 2 48250 0 0
+/operatives-admin/36 1 22005 0 0
+/parameters-stages-admin/40/8 5 1540 0 0
+/parameters-schools-admin/7 1 251 0 0
+/parameters-schools-admin/8 6 1506 0 0
+/parameters/report-operative-admin/32 3 87924 0 0
+/parameters/report-operative-admin/33 2 47954 0 0
+/parameters-subjects-admin/36 1 256 0 0
+/parameters-schools-admin/5 4 988 0 0
+/parameters-subjects-admin/32 1 256 0 0
+/edit-operative-admin/37 4 126602 0 0
+/operatives-admin/33 1 21820 0 0
+/school-show/3 1 27305 0 0
+/parameters-subjects-admin/37 3 537 0 0
+/operatives-admin/32 1 21161 0 0
+/operatives-admin/34 1 22005 0 0
+/parameters-stages-admin/35/7 4 743 0 0
+/parameters-subjects-admin/35 5 1054 0 0
+/parameters-stages-admin/37/7 3 533 0 0
+/parameters-schools-admin/9 1 246 0 0
+/parameters 1 58404 0 0
+/password/reset/5f49f48578d488c6db9bec39a268a227ba7b650c4bb720bbc5d5d56243ddef59 1 8513 1 1
+/delete-director/23 1 495 0 0
+/parameters-subjects-admin/41 3 2358 0 0
+/operatives-admin/37 1 22197 0 0
+/parameters-stages-admin/32/4 6 2042 0 0
+/operatives-admin/35 1 21353 0 0
+/section-show/4 1 24149 0 0
+/parameters-stages-admin/36/6 5 1540 0 0
+/parameters/subject-report-admin/7 1 23572 0 0
+/parameters/report-operative-admin/40 1 28456 0 0
+END_SIDER

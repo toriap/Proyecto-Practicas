@@ -272,7 +272,7 @@ class ParameterController extends Controller
         $user = School::find($id);
         $parameters = Parameter::where('school_id', $id)->get()->load('user')->load('stage')->load('lapse')->load('subject')->load('decan');
 
-        return view('admin.SchoolReport', [
+        return view('admin.schoolReport', [
             'parameters' => $parameters,
             'user' => $user
         ]);
@@ -301,9 +301,9 @@ class ParameterController extends Controller
         $rows_3 = Parameter::where('stage_id', 4)->count();
 
         $percentages_0 = $this->getStatistics(1, $rows_0);
-        $percentages_1 = $this->getStatistics(1, $rows_1);
-        $percentages_2 = $this->getStatistics(1, $rows_2);
-        $percentages_3 = $this->getStatistics(1, $rows_3);
+        $percentages_1 = $this->getStatistics(2, $rows_1);
+        $percentages_2 = $this->getStatistics(3, $rows_2);
+        $percentages_3 = $this->getStatistics(4, $rows_3);
 
         return view('admin.statistics', [
             'percentages_0' => $percentages_0,

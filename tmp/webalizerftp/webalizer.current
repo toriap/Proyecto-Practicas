@@ -1,0 +1,168 @@
+# Webalizer V2.23-08 Incremental Data - 04/08/2021 17:24:37
+2021 4 8 17 24 37
+23 23 1 23 0 0 177284 0 0 1
+1 23 23 8 8
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+23 23 177284 1 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+23 23 177284 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0
+0
+0
+23
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/home1/supervis/resources/views/admin/subject.blade.php
+0 1 11997424 6179 0 0
+/home1/supervis/resources/views/admin/dashboard.blade.php
+0 1 0 738 0 0
+/home1/supervis/resources/views/admin/listSubjects.blade.php
+0 1 0 2892 0 0
+/home1/supervis/resources/views/admin/directors.blade.php
+0 1 0 4301 0 0
+/home1/supervis/resources/views/admin/subjectReport.blade.php
+0 1 0 4813 0 0
+/home1/supervis/resources/views/admin/school.blade.php
+0 1 11996816 8546 0 0
+/home1/supervis/resources/views/admin/decan.blade.php
+0 1 11994624 6908 0 0
+/home1/supervis/resources/views/admin/reportOperative.blade.php
+0 1 0 5077 0 0
+/home1/supervis/resources/views/admin/lapse.blade.php
+0 1 11995088 5520 0 0
+/home1/supervis/resources/views/admin/listDecans.blade.php
+0 1 0 3134 0 0
+/home1/supervis/resources/views/admin/editOperative.blade.php
+0 1 0 14900 0 0
+/home1/supervis/resources/views/admin/operativesReport.blade.php
+0 1 0 2889 0 0
+/home1/supervis/resources/views/admin/schoolReport.blade.php
+0 1 0 4739 0 0
+/home1/supervis/resources/views/admin/editDirector.blade.php
+0 1 0 11146 0 0
+/home1/supervis/resources/views/admin/layout.blade.php
+0 1 11995552 20918 0 0
+/home1/supervis/resources/views/admin/parameters.blade.php
+0 1 0 39288 0 0
+/home1/supervis/resources/views/admin/operatives.blade.php
+0 1 0 4887 0 0
+/home1/supervis/resources/views/admin/listSchools.blade.php
+0 1 0 3262 0 0
+/home1/supervis/resources/views/admin/statistics.blade.php
+0 1 0 4386 0 0
+/home1/supervis/resources/views/admin/decanReport.blade.php
+0 1 0 4739 0 0
+/home1/supervis/resources/views/admin/config.blade.php
+0 1 11994384 8122 0 0
+/home1/supervis/resources/views/admin/section.blade.php
+0 1 11997120 5006 0 0
+/home1/supervis/resources/views/admin/reportComplete.blade.php
+0 1 0 4894 0 0
+# End Of Table - urls
+# -sites- (monthly)
+186.188.100.186
+0 23 23 177284 0 0
+-
+# End Of Table - sites (monthly)
+# -sites- (daily)
+186.188.100.186
+0 23 23 177284 0 0
+-
+# End Of Table - sites (daily)
+# -referrers- 
+# End Of Table - referrers
+# -agents- 
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+test@supervisionuft.rhinohosting.xyz
+0 23 23 177284 1 0
+# End Of Table - usernames
